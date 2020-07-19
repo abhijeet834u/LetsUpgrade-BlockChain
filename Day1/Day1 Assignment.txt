@@ -1,0 +1,23 @@
+Q1: what is your understanding of blockchain?
+Ans--> blockchain is literally just a chain of blocks, but not in the traditional sense of those words. When we say the words “block” and “chain” in this context, we are actually talking about digital information (the “block”) stored in a public database (the “chain”). A blockchain is a type of diary or spreadsheet containing information about
+transaction . each transaction generetes a hash.... each block refers to perious block and together makes the blockchain . a blockchain is effective     as it isspread over many computers , each of which have a copy of the blockchain. 
+
+Q2: what is the core problem trying to solve?
+Ans-->  1.blockchain addesses the problens of data loss due to hardware or connectivity issue
+        2.blockchain addresses the problems of data corrupted due to intermitted hardware or connectivity issue
+        3.blockchain address the problens of data security and trust by making the ledeg public
+
+Q3: what are the few features which blockchain will give you?
+Ans-->  1.cannot be edited
+        2.decentralize techonology
+        3.security
+        4.distributed ledgers
+        5.faster settlement
+
+Q4: what all things does a blockchain contains?
+Ans-->  a blockchain , originally block chain is a growing list of records called blocks that are linked using cryptography . each block contains a cryptography hash of the previous block a timestamp and transation data each of which have a copy of the blockchain.
+
+Q5: how is the variable of blockchain has been attained
+Ans--> local variable are defined inside function . they are kept in the stack location between different function function calls the local variable do not save their 
+value therefore blockchain does not hold such value and they disappear after functions console.
+    
